@@ -3,7 +3,6 @@
 
 
 REQUIRED SECTIONS:
-- Table of Contents
 - About the Project
 - Authors
 
@@ -30,7 +29,7 @@ REQUIRED SECTIONS:
 
 # 📖 [hello_microverse_proyect_ruben] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[your_project__name]** is the first repository of the microverse course 
 
@@ -42,7 +41,7 @@ REQUIRED SECTIONS:
 
 👤 **Ruben_Cuervo**
 
-- GitHub: [@githubhandle](https://github.com/Jrmcuervo))
+- GitHub: [@Jrmcuervo](https://github.com/Jrmcuervo))
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
