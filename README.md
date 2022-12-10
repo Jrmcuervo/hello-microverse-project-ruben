@@ -1,26 +1,6 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
 
@@ -54,11 +34,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello_microverse] <a name="about-project"></a>
+# 📖 [My portfolio] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[hello_microverse]** is the first repository of the microverse course, this is a project to show you how to use linters and how to ignore files using gitignore file.
+**[My portfolio]** It is a project that contains the replica of the mobile version of a figma template, the main content consists of an html document and a css, it includes the code that shapes the replica, uses flexbox, grid, hover, among others. The general idea of the project is to get as close as possible to the original.
 
 ## 🛠 Built With <a name="built-with"></a>
 
